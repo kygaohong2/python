@@ -1,4 +1,4 @@
-CBSA,CBSA Code,Days with AQI,Good Days,Moderate Days,Unhealthy for Sensitive Groups Days,Unhealthy Days,Very Unhealthy Days,Hazardous Days,Max AQI
+CBSA,CBSA_Code,Days_with_AQI,Good_Days,Moderate_Days,Unhealthy_for_Sensitive_Groups_Days,Unhealthy_Days,Very_Unhealthy_Days,Hazardous_Days,Max_AQI
 "Aberdeen, SD",10100,180,166,14,0,0,0,0,61
 "Aberdeen, WA",10140,244,242,2,0,0,0,0,83
 "Adjuntas, PR",10260,18,18,0,0,0,0,0,37
